@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tech-Turtles/static/css/main.6784e304.css",
+    "main.js": "/Tech-Turtles/static/js/main.30c2f8ab.js",
+    "static/js/453.0901ef51.chunk.js": "/Tech-Turtles/static/js/453.0901ef51.chunk.js",
+    "index.html": "/Tech-Turtles/index.html",
+    "main.6784e304.css.map": "/Tech-Turtles/static/css/main.6784e304.css.map",
+    "main.30c2f8ab.js.map": "/Tech-Turtles/static/js/main.30c2f8ab.js.map",
+    "453.0901ef51.chunk.js.map": "/Tech-Turtles/static/js/453.0901ef51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6784e304.css",
+    "static/js/main.30c2f8ab.js"
+  ]
+}
